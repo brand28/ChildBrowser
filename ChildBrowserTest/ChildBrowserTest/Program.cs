@@ -11,6 +11,7 @@ namespace ChildBrowserTest
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Child");
+            Console.WriteLine("Bye Child");
         }
     }
 }
