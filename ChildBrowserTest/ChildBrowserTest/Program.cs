@@ -10,7 +10,7 @@ namespace ChildBrowserTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Child");
+            //hello child was deleted.. papa
             Console.WriteLine("Bye Child");
         }
     }
